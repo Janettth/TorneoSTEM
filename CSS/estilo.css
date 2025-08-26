@@ -34,18 +34,27 @@ body{
     padding: 10px;
     text-align: center;
     border-radius: 10px;
+
+    justify-content: center;
+}
+
+.img{
+    /*background-color: aqua;*/
+    width: 90%;
+    height: 90px;
+    margin: 5px;
 }
 
 .contenedorVoto img{
-    width: 50%;
-    margin: 20px;
+    width: 80%;
+    text-align: center;
 }
 .contenedorVoto p{
     padding: 5px;
 }
 .contenedorVoto input{
     color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(67, 180, 22);
     border: none;
     padding: 10px;
     border-radius: 5px;
